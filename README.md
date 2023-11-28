@@ -2,6 +2,7 @@
 - 👀 I’m interested in Web Developer and Software Developer
 - 🌱 I’m currently learning Angular/React
 - 💞️ I’m looking to collaborate on ...
+- <br>
 - 📫 How to reach me ...
 
 <!---
